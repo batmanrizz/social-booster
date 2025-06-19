@@ -1,9 +1,7 @@
 # ✨ SMM Panel – Elevate Your Social Media Instantly! 🚀
-
 <div align="center">
-  <img src="https://www.big-red-digital.com/images/blogimages/social-media-networks.jpg" alt="SMM Panel Banner" width="250"/>
+  <img src="https://img.icons8.com/clouds/500/social-media.png" alt="SMM Panel Banner" width="250"/>
 </div>
-
 ---
 
 ## 🎉 Welcome!
