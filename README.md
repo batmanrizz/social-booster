@@ -52,26 +52,12 @@
 
 ---
 
-## 🛠️ Built With
-
-- [Node.js](https://nodejs.org/) / [Python](https://www.python.org/) / [PHP](https://www.php.net/)
-- [Express](https://expressjs.com/) / [Flask](https://flask.palletsprojects.com/) / [Laravel](https://laravel.com/)
-- [MongoDB](https://www.mongodb.com/) / [MySQL](https://www.mysql.com/)
-- [Bootstrap](https://getbootstrap.com/) / [Tailwind CSS](https://tailwindcss.com/) / [React](https://react.dev/)
-
----
-
-## 🏷️ Tags
-
-`#SMMPanel` `#SocialMediaGrowth` `#Marketing` `#Instagram` `#YouTube` `#Twitter` `#TikTok` `#SEO` `#DigitalMarketing` `#Automation`
-
----
 
 ## 📞 Contact & Support
 
 Have questions or need assistance?  
-📧 Email: [support@yourdomain.com](mailto:support@yourdomain.com)  
-🌐 Website: [yourdomain.com](https://yourdomain.com)
+📧 Email: [support@yourdomain.com](mailto:support@nepboost.com)  
+🌐 Website: [yourdomain.com](https://nepboost.com)
 
 ---
 
