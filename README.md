@@ -56,8 +56,8 @@
 ## 📞 Contact & Support
 
 Have questions or need assistance?  
-📧 Email: [EMAIL](mailto:support@nepboost.com)  
-🌐 Website:(https://nepboost.com)
+📧 Email: [support@nepboost.com](mailto:support@nepboost.com)  
+🌐 Website:[https://nepboost.com](https://nepboost.com)
 
 ---
 
